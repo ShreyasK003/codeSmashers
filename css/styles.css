@@ -1,0 +1,63 @@
+.hero-section{
+    background: url(../images/hero-home.jpg);
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
+.hero-section2{
+    background: url(../images/hero-about.jpg);
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
+.hero-section3{
+    background: url(../images/hero-service.jpg);
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
+.hero-section4{
+    background: url(../images/hero-contact.jpg);
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
+.data{
+    height: 90vh;
+}
+.card-img{
+    box-shadow: 10px 10px #E4E4E4;
+}
+.rectangle {
+    height: 2px;
+    width: 25%;
+    background-color: #FB2056;
+    border-radius: 10%;
+}
+.btn{
+    background-color: #FB2056;
+}
+.section2{
+    background: url(../images/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg);
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh; 
+}
+.content2{background-color:black;opacity:0.8;}
+
+.color{
+    color: #FB2056;
+}
+.icons{
+    width:50%
+}
